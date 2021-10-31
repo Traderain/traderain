@@ -8,3 +8,6 @@
 ## Random stats
 
 [![traderain's github stats](https://github-readme-stats.vercel.app/api?username=traderain)](https://github.com/anuraghazra/github-readme-stats)
+
+# Hacktoberfest
+- Try hactoberfest guys! It's awesome.
