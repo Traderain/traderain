@@ -11,3 +11,4 @@
 
 # Hacktoberfest
 - Try hactoberfest guys! It's awesome.
+- Participate here: https://hacktoberfest.digitalocean.com/
